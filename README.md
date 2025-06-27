@@ -9,7 +9,7 @@ Web Developer | DSA Enthusiast | Data Science, ML & AI Explorer
 </a> 
 
 <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/cpp.svg">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg">
 </a>
 
 <a href="#">
@@ -41,6 +41,9 @@ Web Developer | DSA Enthusiast | Data Science, ML & AI Explorer
 <a href="#">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/tools/git.svg">
 </a> 
+<a href = "#">
+    <img src = "https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/datascience.svg">
+</a>
 <a href="#">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/services/github.svg">
 </a> 
@@ -60,13 +63,13 @@ Web Developer | DSA Enthusiast | Data Science, ML & AI Explorer
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg">
 </a> 
 <a href="#">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/devices/pc.svg">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/leetcode.svg">
 </a> 
 <a> 
     <img src="https://raw.githubusercontent.com/PoorPocketsMcNewHold/ColoredBadges/refs/heads/master/svg/devices/linux.svg">
 </a>
 <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/services/digitalocean.svg">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/google_cloud_platform.svg">
 </a> 
 
 <a href="#">

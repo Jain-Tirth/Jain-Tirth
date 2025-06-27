@@ -1,16 +1,16 @@
-## Hi there 👋
+![Animated Portfolio Screenshot](link-to-screenshot.png)
 
-<!--
-**Jain-Tirth/Jain-Tirth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey there! 👋 I'm Tirth Jain
 
-Here are some ideas to get you started:
+Web Developer | DSA Enthusiast | Data Science, ML & AI Explorer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I bring:**
+- ⚡ Python | C++
+- 🤝 Teamwork
+- 🎤 Public Speaking
+
+**Certifications:** Proud participant in tech & data science events—always upskilling!  
+**Social:** [LinkedIn](https://www.linkedin.com/in/tirth-jain-9b0616318/)
+
+**When I’m not coding:**  
+You’ll find me watching sports, diving into tech stories, or enjoying a good tragedy narrative.

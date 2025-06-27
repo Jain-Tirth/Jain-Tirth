@@ -1,5 +1,3 @@
-![Animated Portfolio Screenshot](link-to-screenshot.png)
-
 ## Hey there! 👋 I'm Tirth Jain
 
 Web Developer | DSA Enthusiast | Data Science, ML & AI Explorer

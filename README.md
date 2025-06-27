@@ -75,12 +75,8 @@ Web Developer | DSA Enthusiast | Data Science, ML & AI Explorer
 
 **When I’m not coding:**  
 You’ll find me watching sports, diving into tech stories, or enjoying a good tragedy narrative.
-# Hello, I am Shravan! 
-<br>
-
 
 ### GitHub Stats
-
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jain-tirth&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -89,7 +85,7 @@ You’ll find me watching sports, diving into tech stories, or enjoying a good t
 
 <p align="center">
     <a href="https://github.com/shravanasati">
-    	<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shravanasati&bg_color=0D1117&color=9a11d9&line=11a0d9&point=C1F7D0&hide_border=true">
+    	<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jain-tirth&bg_color=0D1117&color=9a11d9&line=11a0d9&point=C1F7D0&hide_border=true">
     </a>
 </p>
 

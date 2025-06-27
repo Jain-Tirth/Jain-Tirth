@@ -9,7 +9,7 @@ Web Developer | DSA Enthusiast | Data Science, ML & AI Explorer
 </a> 
 
 <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/cpp.svg">
 </a> 
 
 <a href="#">

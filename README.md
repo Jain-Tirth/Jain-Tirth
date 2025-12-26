@@ -34,9 +34,9 @@ Web Developer | DSA Enthusiast | Data Science, ML & AI Explorer
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/tj_2712/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/tj-2712/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/tj-2712/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/tj-2712/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 
 ### Tools and Technologies
@@ -95,7 +95,7 @@ You’ll find me watching sports, diving into tech stories, or enjoying a good t
 
 ### GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jain-tirth&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Jain Tirth's Github stats](https://github-readme-stats-nu-peach-96.vercel.app/api?username=jain-tirth&theme=dracula)]()
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravanasati&theme=dracula&langs_count=4&hide=html,jupyter%20notebook&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->

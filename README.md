@@ -94,7 +94,9 @@ Web Developer | DSA Enthusiast | Data Science, ML & AI Explorer
 You’ll find me watching sports, diving into tech stories, or enjoying a good tragedy narrative.
 
 ### GitHub Stats
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jain-tirth&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
+</div>
 [![Jain Tirth's Github stats](https://github-readme-stats-nu-peach-96.vercel.app/api?username=jain-tirth&theme=dracula)]()
 
 
